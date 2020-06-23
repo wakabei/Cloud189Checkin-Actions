@@ -1,6 +1,6 @@
 紧急通知：6月23日之前部署的老代码存在泄露账号密码的风险，已部署的童鞋赶紧处理一下！
 
-泄露原因：.github/workflows/run.yml 代码中有输出账号和密码，只要登陆到Github的用户，可以访问你项目的Actions中的build内容！
+_泄露原因_：.github/workflows/run.yml 代码中有输出账号和密码，只要登陆到Github的用户，可以访问你项目的Actions中的build内容！
 
 我只知道这俩个项目存在该风险！
 
